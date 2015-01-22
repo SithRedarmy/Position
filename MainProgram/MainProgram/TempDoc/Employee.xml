@@ -1,0 +1,20 @@
+<Document ID="" Name="">
+  <Profile>
+    <Section ID="1" Name="Who"></Section>
+    <Section ID="2" Name="What"></Section>
+    <Section ID="3" Name="Where"></Section>
+    <Section ID="4" Name="When"></Section>
+    <Section ID="5" Name="Why"></Section>
+  </Profile>
+  <Data>
+    <Section ID="1" Name="Employee" Type="STR">
+      <Items Name="Employee" Type="FIX">
+        <Item Name="ID_Emp" Type="STR" Value=""  />
+        <Item Name="Name_Emp" Type="STR" Value=""  />
+        <Item Name="Address"  Type="STR" Value=""  />
+        <Item Name="Tel" Type="STR" Value=""  />
+        <Item Name="Birth_Date" Type="STR" Value=""  />
+      </Items>
+    </Section>
+  </Data>
+</Document>

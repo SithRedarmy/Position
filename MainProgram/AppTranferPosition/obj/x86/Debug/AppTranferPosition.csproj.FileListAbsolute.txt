@@ -1,0 +1,13 @@
+D:\Management_V1\MainProgram\AppTranferPosition\obj\x86\Debug\AppTranferPosition.Properties.Resources.resources
+D:\Management_V1\MainProgram\AppTranferPosition\obj\x86\Debug\AppTranferPosition.csproj.GenerateResource.Cache
+D:\Management_V1\MainProgram\TranferPositionDB\AppTranferPosition.pdb
+D:\Management_V1\MainProgram\AppTranferPosition\obj\x86\Debug\AppTranferPosition.dll
+D:\Management_V1\MainProgram\AppTranferPosition\obj\x86\Debug\AppTranferPosition.pdb
+D:\Management_V1\MainProgram\AppTranferPosition\obj\x86\Debug\AppTranferPosition.csprojResolveAssemblyReference.cache
+D:\Management_V1\MainProgram\TranferPositionDB\Config\ComboBoxSource.xml
+D:\Management_V1\MainProgram\TranferPositionDB\Config\PopupSource.xml
+D:\Management_V1\MainProgram\TranferPositionDB\Config\RadioButtonSource.xml
+D:\Management_V1\MainProgram\AppTranferPosition\obj\x86\Debug\AppTranferPosition.fmBoard.resources
+D:\Management_V1\MainProgram\AppTranferPosition\obj\x86\Debug\AppTranferPosition.fmCull.resources
+D:\Management_V1\MainProgram\AppTranferPosition\obj\x86\Debug\AppTranferPosition.fmEmp.resources
+D:\Management_V1\MainProgram\AppTranferPosition\obj\x86\Debug\AppTranferPosition.fmPosition.resources

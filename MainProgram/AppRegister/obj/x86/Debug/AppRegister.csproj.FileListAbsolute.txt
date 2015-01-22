@@ -1,0 +1,17 @@
+D:\Management_V1\MainProgram\RegisterDB\AppRegister.pdb
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\AppRegister.Properties.Resources.resources
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\AppRegister.dll
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\AppRegister.pdb
+D:\Management_V1\MainProgram\RegisterDB\Config\ComboBoxSource.xml
+D:\Management_V1\MainProgram\RegisterDB\Config\PopupSource.xml
+D:\Management_V1\MainProgram\RegisterDB\Config\RadioButtonSource.xml
+D:\Management_V1\MainProgram\RegisterDB\TempDoc\TestRegister.xml
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\AppRegister.Form1.resources
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\AppRegister.Form2.resources
+D:\Management_V1\MainProgram\RegisterDB\AppRegister.dll.config
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\RdlCompile.cache
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\RdlCompile.compiled
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\AppRegister.Form3.resources
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\AppRegister.Form4.resources
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\AppRegister.csprojResolveAssemblyReference.cache
+D:\Management_V1\MainProgram\AppRegister\obj\x86\Debug\AppRegister.csproj.GenerateResource.Cache

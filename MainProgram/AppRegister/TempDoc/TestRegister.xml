@@ -1,0 +1,32 @@
+<Document ID="" Name="">
+  <Profile>
+    <Section ID="1" Name="Who"></Section>
+    <Section ID="2" Name="What"></Section>
+    <Section ID="3" Name="Where"></Section>
+    <Section ID="4" Name="When"></Section>
+    <Section ID="5" Name="Why"></Section>
+  </Profile>
+  <Data>
+    <Section ID="1" Name="TestRegister" Type="STR">
+      <Items Name="TestRegister" Type="FIX">
+        <Item Name="StudentID" Type="STR" Value=""  />
+        <Item Name="StudentName" Type="STR" Value=""  />
+        <Item Name="Major"  Type="STR" Value=""  />
+        <Item Name="Faculty" Type="STR" Value=""  />
+        <Item Name="ClassYear" Type="STR" Value=""  />
+      </Items>
+    </Section>
+
+    <Section ID="2" Name="Subject" Type="STR">
+      <Items Name="Subject" Type="SEQ">
+        <Means Name="Subject">
+          <Mean ID="C00" Name="รหัสวิชา" Type="STR" />
+          <Mean ID="C01" Name="ชื่อวิชา" Type="STR" />
+          <Mean ID="C02" Name="ห้องเรียน" Type="STR" />
+          <Mean ID="C03" Name="วันที่เรียน" Type="STR" />
+          <Mean ID="C04" Name="เวลาเรียน" Type="STR" />
+        </Means>
+      </Items>
+    </Section>
+  </Data>
+</Document>
